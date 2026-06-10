@@ -1,0 +1,21 @@
+# Build outputs
+build/
+app/build/
+imageloader/build/
+
+# Gradle
+.gradle/
+local.properties
+
+# Android Studio / IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# Keystore files
+*.jks
+*.keystore
+
+# Claude Code
+.claude/

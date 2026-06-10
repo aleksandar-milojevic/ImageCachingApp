@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Image Loader App</string>
+    <string name="invalidate_cache">Invalidate Cache</string>
+    <string name="image_id_label">ID: %d</string>
+    <string name="image_content_description">Loaded image</string>
+</resources>
